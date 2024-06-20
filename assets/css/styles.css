@@ -234,7 +234,7 @@ img{
   justify-content: center;
   align-items: center;
   padding: .3rem;
-  background: rgb(168 99 2 / 52%);
+  background: #02a82c;
   border-radius: .4rem;
   z-index: var(--z-tooltip);
   transition: .4s;
